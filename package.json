@@ -1,5 +1,5 @@
 {
-    "name": "ema-john",
+    "name": "react-basic-setup2",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -46,7 +46,7 @@
         "prettier": "2.8.4"
     },
     "main": "index.js",
-    "repository": "https://github.com/skkhandokar/ema-john.git",
+    "repository": "https://github.com/skkhandokar/react-basic-setup2.git",
     "author": "skkhandokar <khandokarsamad4@gmail.com>",
     "license": "MIT"
 }
